@@ -8,8 +8,8 @@ const Hero: React.FC = () => {
         <div className="hero-content">
           <div className="hero-text fade-in">
             <p className="hero-greeting">Hello, I'm</p>
-            <h1 className="hero-title">
-              <span className="text-gradient">Raju Nagalagani</span>
+            <h1 className="hero-title text-gradient">
+              Raju Nagalagani
             </h1>
             <h2 className="hero-subtitle">Angular Developer</h2>
             <p className="hero-description">
