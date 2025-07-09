@@ -14,7 +14,7 @@ const About: React.FC = () => {
       <div className="container">
         <div className="section-header">
           <h2 className="section-title">About Me</h2>
-          <p className="section-subtitle">Get to know me better</p>
+          {/* <p className="section-subtitle">Get to know me better</p> */}
         </div>
         
         <div className="about-content">
@@ -45,7 +45,7 @@ const About: React.FC = () => {
               <div className="stat-label">Years Experience</div>
             </div>
             <div className="stat-card">
-              <div className="stat-number">25+</div>
+              <div className="stat-number">15+</div>
               <div className="stat-label">Projects Completed</div>
             </div>
             <div className="stat-card">
